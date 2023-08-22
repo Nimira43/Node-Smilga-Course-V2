@@ -1,0 +1,21 @@
+System reports: Block3: "REPORT 1
+            
+Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+Sapiente praesentium atque voluptas quaerat aliquam qui 
+architecto dignissimos, inventore modi magnam animi 
+aliquid distinctio cumque earum facere enim cupiditate 
+iure beatae reprehenderit rem consectetur blanditiis. Sequi. EOL. 
+
+     System reports: Block4: "REPORT 2
+            
+Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+Vitae odit odio debitis ratione, quaerat quod deserunt 
+illo eum facilis, ipsam blanditiis in! Totam qui aliquid 
+facilis voluptates iusto cum excepturi.            
+Eius praesentium maxime facilis excepturi fugiat ullam 
+labore impedit quas repellendus. Odio nesciunt maxime nobis 
+consequatur nam impedit inventore laboriosam accusamus 
+veritatis quae doloribus, molestiae asperiores pariatur 
+eligendi neque sint? EOL. 
+
+     EOR.
